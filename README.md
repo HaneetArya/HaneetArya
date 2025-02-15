@@ -9,8 +9,8 @@ Want to Collaborate on Open Source Projects, specifically based on Android and B
 I mostly use Java, Kotlin and javascript daily.
 Talk to me about Techs, GeoPolitics and Games.
 
-## Personal Folio
-<a href="https://github.com/Haneet-Arya"><img src="https://github.com/user-attachments/assets/0cd57860-07a3-49f6-8e6a-6c301ed69db0" width="48"></a>
+<!-- ## Personal Folio -->
+<!--<a href="https://github.com/Haneet-Arya"><img src="https://github.com/user-attachments/assets/0cd57860-07a3-49f6-8e6a-6c301ed69db0" width="48"></a>-->
 
 
 
