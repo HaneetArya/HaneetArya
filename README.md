@@ -10,7 +10,7 @@ I mostly use Java, Kotlin and javascript daily.
 Talk to me about Techs, GeoPolitics and Games.
 
 ## Personal Folio
-[![image](https://github.com/user-attachments/assets/38668965-fd9d-4ea3-bbc1-d3f239fdd2cc)](https://github.com/Haneet-Arya)
+<a href="https://github.com/Haneet-Arya"><img src="https://github.com/user-attachments/assets/38668965-fd9d-4ea3-bbc1-d3f239fdd2cc" width="48"></a>
 
 
 
