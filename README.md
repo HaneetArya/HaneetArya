@@ -9,6 +9,10 @@ Want to Collaborate on Open Source Projects, specifically based on Android and B
 I mostly use Java, Kotlin and javascript daily.
 Talk to me about Techs, GeoPolitics and Games.
 
+## Personal Folio
+[![image](https://github.com/user-attachments/assets/38668965-fd9d-4ea3-bbc1-d3f239fdd2cc)](https://github.com/Haneet-Arya)
+
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_haneet_arya_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haneet-arya-067b72141) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HaneetArya) 
